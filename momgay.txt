@@ -1,1 +1,13 @@
 momgay:Project1 momgay$ git status
+On branch master
+
+Initial commit
+
+git add <momgay.txt>
+
+git rm --cached <momgay.txt>
+
+new file: momgay.txt
+
+git commit -m "This is a commit"
+
